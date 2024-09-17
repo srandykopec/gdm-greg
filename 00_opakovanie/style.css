@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(247, 224, 12);
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+td{
+    color: rgb(33, 159, 209)
+
+}
+
+.stredne{
+    text-transform: uppercase;
+    text-decoration: line-through;
+    background-color: deeppink;
+}
