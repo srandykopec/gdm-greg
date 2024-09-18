@@ -10,3 +10,13 @@ p{
 body{
     width: 800px;
 }
+
+.prvy {
+    color: rgb(130, 44, 130);
+    text-transform: uppercase;
+}
+
+.perex{
+    font-style: italic;
+    font-size:large;
+}
