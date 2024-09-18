@@ -1,0 +1,12 @@
+h2{
+    color: rgb(67, 134, 0);
+    background-color: antiquewhite;
+}
+
+p{
+    text-align: justify;
+}
+
+body{
+    width: 800px;
+}
