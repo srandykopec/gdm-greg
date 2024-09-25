@@ -2,6 +2,9 @@ body{
     margin: 200px;
     margin-top: 0;
     margin-bottom: 0;
-    border:  10px double tomato;
+    border-bottom: 10px dashed plum;
+    border-left: 10px double aqua;
+    border-right: 10px dotted darkgreen;
+    border-top: 10px solid deeppink;
     padding: 70px;
 }
