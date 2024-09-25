@@ -1,5 +1,5 @@
 # gdm-greg
-🔥🔥**Repozitár materiálov predmetu web odboru grafik, 2 ročník**🔥🔥
+🔥🔥**Repozitár materiálov predmetu web odboru grafik, 2. ročník**🔥🔥
 
 
 
