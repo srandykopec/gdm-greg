@@ -1,4 +1,9 @@
 body{
+    margin: 0 auto;
+    max-width: 768px;
+}
+
+.container{
     margin: 200px;
     margin-top: 0;
     margin-bottom: 0;
@@ -7,4 +12,9 @@ body{
     border-right: 10px dotted darkgreen;
     border-top: 10px solid deeppink;
     padding: 70px;
+}
+
+h1{
+    border: 10px solid deeppink;
+    padding: 15px;
 }
