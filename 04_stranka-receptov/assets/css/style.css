@@ -1,0 +1,28 @@
+h1{
+    color: hsl(30, 54%, 90%);
+    color: hsl(0, 0%, 100%);
+    color: hsl(30, 54%, 90%);
+    color: hsl(30, 18%, 87%);
+    color: hsl(30, 10%, 34%);
+    color: hsl(24, 5%, 18%);
+    color: hsl(14, 45%, 36%);
+    color: hsl(332, 51%, 32%);
+    color: hsl(330, 100%, 98%);
+}
+
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+
+.container{
+    background-color: hsl(0, 0%, 100%);
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 35px;
+    border-radius: 15px;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px;
+}
