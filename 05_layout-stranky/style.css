@@ -2,9 +2,36 @@
     background-color: darkgray;
     max-width: 800px;
     margin: 0 auto;
-    border: 1px solid aquamarine;
+    text-align: center;
+    border: 1px solid darkblue;
 }
 
 header{
     width: 100%;
+}
+
+.wrapper{
+    background-color: #fff;
+    display: flex;
+}
+
+article{
+    margin: 50px 40px ;
+    padding: 10px;
+    text-align: justify;
+    border-radius: 15px;
+    border: 1px solid darkblue;
+
+}
+
+.jedna{
+    background-color: deeppink;
+}
+
+.dva{
+    background-color:gold;
+}
+
+.tri{
+    background-color: cornflowerblue;
 }
