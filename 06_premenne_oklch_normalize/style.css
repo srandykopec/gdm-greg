@@ -1,0 +1,18 @@
+:root{
+    --primarna: oklch(97.43% 0.0025 165.08);
+    --sekundarna: oklch(77.89% 0.0809 80.63);
+    --tercialna: oklch(61.85% 0.1125 295.18);
+    --tercialna-bleda: oklch(65.32% 0.0483 299.35);
+    --tercialna-tmava: oklch(41.11% 0.0703 297.47);
+}
+
+
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+main{
+    display: flex;
+}
