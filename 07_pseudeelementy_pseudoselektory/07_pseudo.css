@@ -61,3 +61,9 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+ /* pri prejdení myšou po položkách menu sa zmení farba pozadia a podčiarknutie*/
+a:hover{
+    background-color: #D90368 ;
+    text-decoration: underline;
+}
