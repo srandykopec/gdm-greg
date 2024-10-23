@@ -30,6 +30,10 @@ Dokončite kód a upravte vzhľad stránky podľa nasledovných bodov:
 
 - Skryte poslednú položku v navigácii (Kontakt) na mobilných zariadeniach pomocou pseudotriedy `:last-child` a media queries (použite šírku obrazovky pod 600px).
 
+@media (max-width: 600px) {
+    dopň kód
+    }
+
 ### 7. Formátovanie tlačidla - disabled stav:
 
 - Vytvorte nový štýl pre tlačidlo (`button:disabled`) s nastavením svetlosivej farby a neaktívneho vzhľadu. Potom skúste tlačidlo v HTML na chvíľu vypnúť (atribút `disabled`).
