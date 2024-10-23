@@ -76,4 +76,10 @@ h1::before{
 /* 3.hover na .cta-button */
 .cta-button:hover{
     background-color: #FFC300 ;
+    box-shadow: 7px 7px 12px #ab8300;
+}
+
+::selection {
+    background-color: #FFD700; /* Svetložltá farba pozadia */
+    color: #2E294E; /* Tmavosivá farba textu */
 }
