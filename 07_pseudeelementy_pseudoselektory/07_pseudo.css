@@ -83,3 +83,15 @@ h1::before{
     background-color: #FFD700; /* Svetložltá farba pozadia */
     color: #2E294E; /* Tmavosivá farba textu */
 }
+
+/*6. Skrytý odkaz na Kontakt ak je stránka pod 600px*/
+@media (max-width: 600px) {
+    li:last-child{
+        display: none;}
+    }
+
+button:disabled {
+    background-color: #C3CCD8;
+    color: #666;
+    cursor: not-allowed;
+}
