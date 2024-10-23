@@ -62,8 +62,18 @@ footer {
     width: 100%;
 }
 
- /* pri prejdení myšou po položkách menu sa zmení farba pozadia a podčiarknutie*/
+ /* 1.pri prejdení myšou po položkách menu sa zmení farba pozadia a podčiarknutie*/
 a:hover{
     background-color: #D90368 ;
     text-decoration: underline;
+}
+
+/* 2.pred nadpis som vložil 💻 */
+h1::before{
+    content: "💻";
+}
+
+/* 3.hover na .cta-button */
+.cta-button:hover{
+    background-color: #FFC300 ;
 }
