@@ -9,10 +9,7 @@ main{
     height: 100%;
     margin: 0;
     border: 2px orange solid;
-    display: flex;
-    flex-direction: row; 
-justify-content: flex-end; 
-align-items: flex-end;
+
 
     
 }
