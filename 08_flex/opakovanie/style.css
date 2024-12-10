@@ -1,3 +1,21 @@
 body{
     background-color: aquamarine;
 }
+
+main{
+    margin: 0px auto;
+    width: 800px;
+}
+
+
+.prvy{
+    background-color: cornflowerblue;
+}
+
+.druhy{
+    background-color: coral;
+}
+
+.treti{
+    background-color: limegreen;
+}
